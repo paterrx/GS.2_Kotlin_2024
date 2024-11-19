@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#4CAF50</color>
+    <color name="primaryDarkColor">#388E3C</color>
+    <color name="accentColor">#81C784</color>
+
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="cardBackgroundColor">#FFFFFF</color>
+    <color name="buttonBackgroundColor">#388E3C</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="textPrimaryColor">#212121</color>
+    <color name="textSecondaryColor">#757575</color>
+
+    <color name="dividerColor">#BDBDBD</color>
+    <color name="highlightColor">#A5D6A7</color>
+</resources>
